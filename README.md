@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# JasGiigli - Coding Tutorials
+
+Welcome to the JasGiigli - Coding Tutorials Web Application! This application is designed to help you learn and improve your coding skills through interactive tutorials, exercises, and projects.
+
+## Features
+
+- **Interactive Tutorials:** Explore a wide range of tutorials covering HTML, CSS, JavaScript, React, Next.js, MongoDB, Angular, and more. Each tutorial is designed to provide hands-on learning experiences.
+- **Exercises and Challenges:** Test your knowledge and skills with interactive exercises and coding challenges. Practice coding in a supportive environment and track your progress over time.
+
+- **Projects and Assignments:** Apply what you've learned by working on real-world projects and assignments. Collaborate with other learners and showcase your work to the community.
+
+- **Community Support:** Join a vibrant community of learners, mentors, and educators. Share your experiences, ask questions, and collaborate with others to enhance your learning journey.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- MongoDB
+- Angular
 
 ## Getting Started
 
-First, run the development server:
+To get started with the Code Learning Web Application, follow these steps:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Clone the repository to your local machine. https://github.com/jasgigli/jasgiigli.vercel.app.git
+2. Install the necessary dependencies using npm or yarn.
+3. Run the application locally using npm start or yarn start.
+4. Access the application through your web browser at http://localhost:3000.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Contributions are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. Your contributions will help make the Code Learning Web Application even better for learners around the world.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## License
 
-## Learn More
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-To learn more about Next.js, take a look at the following resources:
+## Contact
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+overview.jjj@gmail.com. You can also visit our website jasgiigli.vercel.app for more information and updates.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy coding!
