@@ -40,6 +40,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 
-overview.jjj@gmail.com. You can also visit our website jasgiigli.vercel.app for more information and updates.
+For any inquiries or support, please contact Junaid Ali Shah at overview.jjj@gmail.com You can also visit our website [Your Website URL] for more information and updates.
 
 Happy coding!
